@@ -1,9 +1,8 @@
 
 /* 
 Печатаем трижды
-
-
 */
+
 public class Solution {
     public static void print3(String s) {
         //напишите тут ваш код
